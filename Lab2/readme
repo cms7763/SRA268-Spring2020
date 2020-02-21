@@ -1,0 +1,16 @@
+For this assignment, you will create a graph for each of the graph types we mentioned in class (see slides):
+
+Deviation 
+Correlation
+Ranking
+Distribution
+Change over Time
+Magnitude
+Part-to-Whole
+What you need to do:
+
+You will make a graph using Tableau and save it as an image (.PNG). 
+Put this image on to your Github account
+Update the template I provided with your images
+Include a 100 word (or more) write-up. You should provide details about what the graph is telling you. Be critical, for example: What are the spatial relationships highlighting? What are you learning about the data that you didn't know before?
+Once you are done with uploading your Notebook to Github, copy the link (the entire URL) and go to https://nbviewer.jupyter.org/ (Links to an external site.)  (Links to an external site.). Paste the Github link there to create a NBViewer link and submit this as your assignment.
